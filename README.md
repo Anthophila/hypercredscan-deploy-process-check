@@ -1,4 +1,4 @@
 # hypercredscan-deploy-process-check
 A temporary repo to walk through the process of deploying hypercredscan
 
-datadog: 6f3584d1b6aae5f0dca08ca99cf752d93de30551
+datadog: a61a4c0858e4374c926b742e675aa4e1d5053a37
